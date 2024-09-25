@@ -41,4 +41,4 @@ This is a simple **Product Management CRUD Application** built using **Spring MV
 ### Steps to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/product-crud-app.git
+   git clone https://github.com/Vikalp1O1/product-crud-app.git
